@@ -1,0 +1,6 @@
+All-in-on:
+
+Este plugin exporta tu sitio web WordPress, incluyendo la base de datos, archivos multimedia, plugins y temas sin ningún conocimiento técnico requerido.
+Sube tu sitio a una ubicación diferente con la función de arrastrar y soltar en WordPress.
+Existe la opción de aplicar un número ilimitado de operaciones de búsqueda y sustitución en la base de datos durante el proceso de exportación. El plugin corregirá todo
+Problemas de serialización que se producen durante la operación búsqueda/reemplazo.
